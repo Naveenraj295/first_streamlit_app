@@ -15,3 +15,4 @@ streamlit.text('🥝 Kewi Crushers')
 streamlit.text('🍇 Grape Pulpes')
 
 
+import pandas
